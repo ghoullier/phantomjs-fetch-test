@@ -1,0 +1,4 @@
+# Third part dependencies
+/node_modules/
+# Log
+/npm-debug.log
